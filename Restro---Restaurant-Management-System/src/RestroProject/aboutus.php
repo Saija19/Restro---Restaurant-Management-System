@@ -19,7 +19,7 @@ This can be used to handle customers, orders, generate bill and can help to easi
 <address>
 Restro, Porvorim-Goa.
 <br>
-08322414914
+0832-2414914
 </address>
 </body>
 </html>
